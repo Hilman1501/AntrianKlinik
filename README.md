@@ -18,10 +18,10 @@ Fitur utamanya:
 
 ## ⚙️ Stack & Teknologi
 
-- **React** (Library UI)
-- **Vite** (Build Tool)
-- **JavaScript** (ES6+)
-- **CSS Modules** (atau CSS biasa, sesuai project-mu)
+- **React**
+- **Vite**
+- **JavaScript** 
+- **CSS Modules** 
 
 ---
 
@@ -29,15 +29,6 @@ Fitur utamanya:
 
 Project ini dibuat untuk:
 - Menerapkan konsep CRUD sederhana di React
-- Belajar state management dasar dengan React `useState` / `useContext` (jika ada)
-- Melatih deployment dengan GitHub Pages (jika di-publish)
+- Belajar state management dasar dengan React `useState` / `useContext` 
 - Mendokumentasikan hasil belajar di GitHub
 
----
-
-## 🚀 Cara Menjalankan
-
-1. **Clone repository**
-   ```bash
-   git clone https://github.com/Hilman1501/AntrianKlinik.git
-   cd AntrianKlinik
